@@ -1,1 +1,1 @@
-ThanhDz:0.tcp.ap.ngrok.io:19467:0:0
+Thanhnso:0.tcp.ap.ngrok.io:11626:0:0
